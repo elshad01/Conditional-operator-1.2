@@ -22,6 +22,8 @@ public class Main {
             System.out.println("Установите обычную версию приложения Android для по ссылке");
         }
 
+
+
           //task 3
         System.out.println("task 3");
           int year =2000;
@@ -29,6 +31,9 @@ public class Main {
               System.out.println(year +" год является високосным");
           } else {
               System.out.println("год не является високосным");}
+
+
+
           //task 4
         System.out.println("task 4");
           int deliveryDistance=95;
