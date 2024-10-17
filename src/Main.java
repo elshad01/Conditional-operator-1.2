@@ -23,7 +23,6 @@ public class Main {
         }
 
 
-
           //task 3
         System.out.println("task 3");
           int year =2000;
